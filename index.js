@@ -8,7 +8,6 @@ function getname(name){
 function getroll(){
     return 'roll number';
 }
-
-function sale{
-    return 'sale';
+function feature(){
+    return 'screen';
 }
